@@ -143,7 +143,7 @@
 /* hero section start  */
 
 #hero {
-  position: relative;
+  /* position: relative; */
   overflow: hidden;
   background-image: url('../img/slider/slider-3.jpg');
   background-size: cover;
